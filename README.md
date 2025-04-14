@@ -13,6 +13,7 @@ COLOQUEI ALGUMAS INFORMAÇOES QUE JA CONHECIA E COMPLETEI USANDO CHATGPT E O GAM
 ## 🚀 Resultados
 https://gamma.app/docs/IA-nos-Jogos-Digitais-Uma-Revolucao-Imersiva-zmq4fqibgojzx49
 https://drive.google.com/file/d/1uqsvZgMbfFjYYOCT2uv959FXp1xHgqyh/view?usp=drive_link
+https://drive.google.com/file/d/1Hrb0wrnN0vvW4_jV1yIoFncAAVoR3YrC/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
 Desafio muito bom, bom tambem para ir conhecendo as ferramentas e como usa-las.
